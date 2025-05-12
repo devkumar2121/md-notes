@@ -18,41 +18,41 @@ Design patterns are typically divided into three main categories:
 ### 1. Creational Patterns
 > These patterns deal with object creation mechanisms.
 
-- [Singleton](creational/singleton.md)
-- [Factory Method](creational/factory-method.md)
-- [Abstract Factory](creational/abstract-factory.md)
-- [Builder](creational/builder.md)
-- [Prototype](creational/prototype.md)
+- [Singleton](Design-Pattern/creational/singleton.md)
+- [Factory Method](Design-Pattern/creational/factory-method.md)
+- [Abstract Factory](Design-Pattern/creational/abstract-factory.md)
+- [Builder](Design-Pattern/creational/builder.md)
+- [Prototype](Design-Pattern/creational/prototype.md)
 
 ---
 
 ### 2. Structural Patterns
 > These patterns focus on how classes and objects are composed.
 
-- [Adapter](structural/adapter.md)
-- [Bridge](structural/bridge.md)
-- [Composite](structural/composite.md)
-- [Decorator](structural/decorator.md)
-- [Facade](structural/facade.md)
-- [Flyweight](structural/flyweight.md)
-- [Proxy](structural/proxy.md)
+- [Adapter](Design-Pattern/structural/adapter.md)
+- [Bridge](Design-Pattern/structural/bridge.md)
+- [Composite](Design-Pattern/structural/composite.md)
+- [Decorator](Design-Pattern/structural/decorator.md)
+- [Facade](Design-Pattern/structural/facade.md)
+- [Flyweight](Design-Pattern/structural/flyweight.md)
+- [Proxy](Design-Pattern/structural/proxy.md)
 
 ---
 
 ### 3. Behavioral Patterns
 > These patterns manage object interactions and responsibilities.
 
-- [Chain of Responsibility](behavioral/chain-of-responsibility.md)
-- [Command](behavioral/command.md)
-- [Interpreter](behavioral/interpreter.md)
-- [Iterator](behavioral/iterator.md)
-- [Mediator](behavioral/mediator.md)
-- [Memento](behavioral/memento.md)
-- [Observer](behavioral/observer.md)
-- [State](behavioral/state.md)
-- [Strategy](behavioral/strategy.md)
-- [Template Method](behavioral/template-method.md)
-- [Visitor](behavioral/visitor.md)
+- [Chain of Responsibility](Design-Pattern/behavioral/chain-of-responsibility.md)
+- [Command](Design-Pattern/behavioral/command.md)
+- [Interpreter](Design-Pattern/behavioral/interpreter.md)
+- [Iterator](Design-Pattern/behavioral/iterator.md)
+- [Mediator](Design-Pattern/behavioral/mediator.md)
+- [Memento](Design-Pattern/behavioral/memento.md)
+- [Observer](Design-Pattern/behavioral/observer.md)
+- [State](Design-Pattern/behavioral/state.md)
+- [Strategy](Design-Pattern/behavioral/strategy.md)
+- [Template Method](Design-Pattern/behavioral/template-method.md)
+- [Visitor](Design-Pattern/behavioral/visitor.md)
 
 ---
 
@@ -67,8 +67,7 @@ Design patterns are typically divided into three main categories:
 ## 📚 Additional Resources
 
 - [Refactoring Guru](https://refactoring.guru/design-patterns)
-- [Gang of Four Book](https://www.goodreads.com/book/show/85009.Design_Patterns)
 
 ---
 
-_This guide is actively maintained and community-contributed. Happy designing!_
+_This guide is actively maintained by Dev Kumar. Happy designing!_
