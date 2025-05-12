@@ -18,11 +18,11 @@ Design patterns are typically divided into three main categories:
 ### 1. Creational Patterns
 > These patterns deal with object creation mechanisms.
 
-- [Singleton](Design-Pattern/creational/singleton.md)
-- [Factory Method](Design-Pattern/creational/factory-method.md)
-- [Abstract Factory](Design-Pattern/creational/abstract-factory.md)
-- [Builder](Design-Pattern/creational/builder.md)
-- [Prototype](Design-Pattern/creational/prototype.md)
+- [Singleton](creational/singleton.md)
+- [Factory Method](creational/factory-method.md)
+- [Abstract Factory](creational/abstract-factory.md)
+- [Builder](creational/builder.md)
+- [Prototype](creational/prototype.md)
 
 ---
 
