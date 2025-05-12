@@ -12,7 +12,7 @@ nav:
       - Tutorial 1: tutorials/tutorial-1.md
       - Tutorial 2: tutorials/tutorial-2.md
   - Design Pattern:
-      - Overview: Design-Patterns/index.md
+      - Overview: Design-Pattern/index.md
   - Reference:
       - API: reference/api.md
       - Configuration: reference/config.md
