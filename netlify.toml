@@ -1,0 +1,8 @@
+# netlify.toml
+[build]
+  command = "pip install mkdocs mkdocs-material && mkdocs build"
+  publish = "site"
+
+[build.environment]
+  PIP_NO_CACHE_DIR = "off"
+  PYTHON_VERSION = "3.10"
