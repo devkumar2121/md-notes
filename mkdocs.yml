@@ -1,11 +1,24 @@
-site_name: Markdown-Notes
+site_name: MD-Notes
 theme:
   name: material
+  font:
+    code: Roboto Mono
 nav:
   - Home: index.md
-  - Getting Started:
-      - Intro: getting-started/intro.md
-      - Setup: getting-started/setup.md
-  - Guides:
-      - Usage: guides/usage.md
-      - FAQ: guides/faq.md
+  - About: about.md
+  - Installation: installation.md
+  - Usage: usage.md
+  - Tutorials:
+      - Tutorial 1: tutorials/tutorial-1.md
+      - Tutorial 2: tutorials/tutorial-2.md
+  - Design Pattern:
+      - Overview: Design-Patterns/index.md
+  - Reference:
+      - API: reference/api.md
+      - Configuration: reference/config.md
+
+extra_css:
+  - 'stylesheets/custom.css'  # Optional: for custom styles
+
+extra_javascript:
+  - 'javascripts/custom.js'   # Optional: for custom scripts
